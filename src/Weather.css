@@ -1,0 +1,6 @@
+.NeatList {
+  list-style: none;
+  line-height: 25px;
+  display: inline-block;
+  text-align: left;
+}
